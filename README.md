@@ -1,3 +1,5 @@
+Checking git
+
 # Reliance Edge
 
 Reliance Edge is a small, portable, highly reliable power-fail safe file system
